@@ -5,6 +5,20 @@ module.exports = {
     extend: {
       colors: {
         primary: "#1D2D4C",
+        secondary: {
+          DEFAULT: "#47B370",
+          100: "#47736F",
+          200: "#80CDA5",
+          300: "#8CEAB4",
+        },
+        black: {
+          DEFAULT: "#000",
+          100: "#1B1B1B",
+          200: "#2B2B2B",
+        },
+        gray: {
+          100: "E8E5E0",
+        },
       },
     },
     fontFamily: {
